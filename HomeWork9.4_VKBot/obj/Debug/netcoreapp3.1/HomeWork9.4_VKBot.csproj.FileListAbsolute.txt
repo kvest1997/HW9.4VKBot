@@ -1,0 +1,16 @@
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\bin\Debug\netcoreapp3.1\HomeWork9.4_VKBot.exe
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\bin\Debug\netcoreapp3.1\HomeWork9.4_VKBot.deps.json
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\bin\Debug\netcoreapp3.1\HomeWork9.4_VKBot.runtimeconfig.json
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\bin\Debug\netcoreapp3.1\HomeWork9.4_VKBot.runtimeconfig.dev.json
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\bin\Debug\netcoreapp3.1\HomeWork9.4_VKBot.dll
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\bin\Debug\netcoreapp3.1\HomeWork9.4_VKBot.pdb
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\obj\Debug\netcoreapp3.1\HomeWork9.4_VKBot.csproj.AssemblyReference.cache
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\obj\Debug\netcoreapp3.1\HomeWork9.4_VKBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\obj\Debug\netcoreapp3.1\HomeWork9.4_VKBot.AssemblyInfoInputs.cache
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\obj\Debug\netcoreapp3.1\HomeWork9.4_VKBot.AssemblyInfo.cs
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\obj\Debug\netcoreapp3.1\HomeWork9.4_VKBot.csproj.CoreCompileInputs.cache
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\obj\Debug\netcoreapp3.1\HomeWork9.4_VKBot.csproj.CopyComplete
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\obj\Debug\netcoreapp3.1\HomeWork9.4_VKBot.dll
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\obj\Debug\netcoreapp3.1\HomeWork9.4_VKBot.pdb
+D:\Учеба\Skillbox\HomeWork9.4_VKBot\HomeWork9.4_VKBot\obj\Debug\netcoreapp3.1\HomeWork9.4_VKBot.genruntimeconfig.cache
